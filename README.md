@@ -1,6 +1,5 @@
-# Public Shopify App Using Codeigniter and Embedded App SDK.
-This repository contains a working example of public Shopify App using Codeigniter and Embedded App SDK
-
+# Public Shopify App Using Codeigniter and Embedded App SDK with metafields API.
+This repository contains a working example of public Shopify App using Codeigniter and Embedded App SDK with MetaFields APIs
 
 -> Do the following Changes in <strong>config.php</strong>
 
