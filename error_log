@@ -1,0 +1,2 @@
+[21-Dec-2016 08:25:35 America/New_York] PHP Parse error:  syntax error, unexpected 'https' (T_STRING) in /home/quicnjpy/public_html/voodoostores.top/mangofunnels/application/controllers/Auth.php on line 69
+[02-Aug-2018 07:16:47 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/allinonetutorial/public_html/shopifysrm/application/controllers/Auth.php on line 87
